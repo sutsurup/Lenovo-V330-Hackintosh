@@ -4,7 +4,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.0-9cf)](https://github.com/acidanthera/OpenCorePkg)
 [![release](https://img.shields.io/badge/indir-son%20sürüm-blue.svg)](https://github.com/sutsurup/Lenovo-V330-Hackintosh/releases)
 
-<img align="right" src="Images/Lenovo-V330.png" alt="Lenovo">
+<img align="right" src="Images/Lenovo-V330.png" alt="Lenovo" height="260" width="363">
 
 Türkçe | [English](https://github.com/sutsurup/ASUS-K555UB-Hackintosh/blob/master/README_EN.md)
 
